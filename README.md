@@ -19,3 +19,12 @@ Check out our in depth guide to [Contributing to Alumay](https://github.com/Alum
 
 We need all the help we can get! You can also join in with our [teams](https://github.com/orgs/Alumay/teams) to keep up-to-date and meet other Alumay contributors.
 
+
+## Getting Started
+
+There are **two** main ways to get started with Alumay, take care to use the method which best suits your needs.
+
+**Please note** - the downloadable zip files we provide on [alumay.com](http://alumay.com/download) are pre-built packages designed for getting started quickly. Cloning from the git repository requires you to install several dependencies and build the assets yourself. 
+
+### Getting Started Guide for end users...
+
