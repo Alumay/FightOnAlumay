@@ -3,7 +3,7 @@ FightOnAlumay
 
 The New Battlefield!
 
-# [Alumay](https://github.com/Alumay/FightOnAlumay.git) [![Build Status](https://travis-ci.org/TryGhost/Ghost.png?branch=master)](https://travis-ci.org/TryGhost/Ghost)
+# [Alumay]https://travis-ci.org/Alumay/FightOnAlumay.png?branch=master [![Build Status](https://travis-ci.org/Alumay/FightOnAlumay.png?branch=master)](https://travis-ci.org/Alumay/FightOnAlumay)https://github.com/Alumay/FightOnAlumay.git) [![Build Status](https://travis-ci.org/Alumay/FightOnAlumay.png?branch=master)](https://travis-ci.org/Alumay/FightOnAlumay)
 
 Alumay is a free, open platform that is available to anyone who wants to set $company, !mission, ~Dictionary, #Chat or @Blog rooms using it.
 
